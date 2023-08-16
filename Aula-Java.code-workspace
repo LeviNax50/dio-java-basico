@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "Aulas-Udemy",
+			"path": "../../../Aulas-Udemy"
+		},
+		{
+			"name": "Exercicios-JS",
+			"path": "../../../Exercicios-JS"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
